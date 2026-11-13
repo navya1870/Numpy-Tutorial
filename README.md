@@ -4,6 +4,7 @@ This repository contains my practice and learning work with **NumPy**, a Python 
 
 ## Topics Covered
 
+- Introduction to Numpy
 - Creating NumPy arrays
 - Array Generation Functions
 - Random Generation Functions
